@@ -12,7 +12,7 @@ const Footer = () => {
       <p className="text-xs text-muted-foreground mt-1">
         Build & Designed by{" "}
         <a
-          href="miots.vercel.app"
+          href="https://miots.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="text-primary hover:underline transition-all"
